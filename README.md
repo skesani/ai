@@ -16,3 +16,6 @@ Prompt engineering strategies and system design examples
 Links to live demos, repos, and papers
 
 📌 Perfect for AI engineers, researchers, and enthusiasts looking to build or contribute to next-gen AI apps.
+
+### AI Agents
+*   [Awesome AI Agents](awesome-llm-app) - A curated list of AI agents and autonomous systems built with LLMs.
